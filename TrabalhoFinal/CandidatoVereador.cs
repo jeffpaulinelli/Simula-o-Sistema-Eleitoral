@@ -11,10 +11,10 @@ namespace TrabalhoFinal
 
         
 
-        // id com 04 números
-        public override void computaVoto()
-        {
-                  }
+        //// id com 04 números
+        //public override void computaVoto()
+        //{
+        //          }
         
 
     }

@@ -11,9 +11,9 @@ namespace TrabalhoFinal
         //id com 02 números?
         int viceId { get; set; }
         string nomeVice { get; set; }
-        public override void computaVoto()
-        {
-             int qtdeVotos= +1;
-        }
+        //public override void computaVoto()
+        //{
+        //     int qtdeVotos= +1;
+        //}
     }
 }

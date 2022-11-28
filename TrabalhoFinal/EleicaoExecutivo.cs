@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrabalhoFinal
 {
-    public class EleiçãoExecutivo : Eleição
+    public class EleicaoExecutivo : Eleicao
     {
         public int[] candidatos; //arquivo de candidatos salvo a partir das ids
         public int[] eleitos; //arquivo de candidatos eleitos, obs: para pesquisa rodas um for
