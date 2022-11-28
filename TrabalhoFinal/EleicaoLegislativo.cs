@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrabalhoFinal
 {
-    public class EleicaoExecutivo : Eleicao
+    public class EleicaoLegislativo : Eleicao
     {
         public List<Partido> Partidos { get; set; }
         public List<Candidato> Eleitos { get; set; }

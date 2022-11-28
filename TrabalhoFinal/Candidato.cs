@@ -14,8 +14,9 @@ namespace TrabalhoFinal
         private string? nome { get; set; }
         DateTime nasc { get; set; }
         private int qtdVotos { get; set; }
-
-
+        bool temVice;
+        public Candidato vice;
+        public int qtdevotos;
 
         //protected Candidato() { }
         //public abstract void computaVoto();
